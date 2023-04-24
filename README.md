@@ -2,6 +2,10 @@
 
 This is my solution to this [repo](https://github.com/reallabs/react-take-home).
 
+## Link
+
+[Github Pages](https://jdegand.github.io/jetfuel-take-home-exercise/)
+
 ## Screenshots
 
 ![](jetfuel-take-home-1.png)
